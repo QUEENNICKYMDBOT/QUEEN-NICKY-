@@ -1,7 +1,7 @@
 {
-  "name": "x-asena",
+  "name": "mrtima",
   "version": "2.0.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "QUEEN NICKY MD WHATSAPP BOT - A PROJECT OWNER DUMIDU",
   "main": "./bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -24,7 +24,7 @@
     "whatsapp api",
     "WhatsAsena"
   ],
-  "author": "X-Electra",
+  "author": "MRTIMA",
   "developer": "X-Electra / Neeraj-x0",
   "license": "GPL-3.0-or-later",
   "bugs": {
